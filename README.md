@@ -2,8 +2,8 @@
 
 Aplicativo multiplataforma feito em **Flutter/Dart** para acompanhar a jornada de quem está largando um vício: quantos maços de cigarro ou latas de cerveja deixou de consumir, há quantos dias está sem recair e quanto dinheiro já economizou.
 
-- **Aluno:** [SEU NOME COMPLETO]
-- **Turma:** [SUA TURMA]
+- **Aluno:** Matheus Santos Moreira
+- **Turma:** D.S.M 2026-2
 - **Disciplina:** Mobile 2
 
 ## Plataformas
@@ -12,7 +12,6 @@ Aplicativo multiplataforma feito em **Flutter/Dart** para acompanhar a jornada d
 |---|---|
 | Android | ✅ Testado em celular físico |
 | Windows | ✅ Testado |
-| Linux | ⚠️ Projeto configurado (pasta `linux/`), mas **não testado** nesta plataforma |
 
 ## Telas
 
