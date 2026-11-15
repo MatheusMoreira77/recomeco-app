@@ -16,10 +16,10 @@ Aplicativo multiplataforma feito em **Flutter/Dart** para acompanhar a jornada d
 
 ## Telas
 
-<!-- Salve os prints na pasta docs/ e ajuste os nomes dos arquivos -->
 | Login | Início | Detalhe do vício |
 |---|---|---|
-| ![Login](docs/login.png) | ![Início](docs/home.png) | ![Detalhe](docs/detalhe.png) |
+| [![Login](docs/login.png)](lib/screens/login_screen.dart) | [![Início](docs/home.png)](lib/screens/home_screen.dart) | [![Detalhe](docs/detalhe.png)](lib/screens/habit_detail_screen.dart) |
+| [Ver código](lib/screens/login_screen.dart) | [Ver código](lib/screens/home_screen.dart) | [Ver código](lib/screens/habit_detail_screen.dart) |
 
 ## Funcionalidades principais
 
